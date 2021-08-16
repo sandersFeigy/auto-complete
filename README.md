@@ -1,6 +1,4 @@
-# google-project-auto-complete
-### program authors
-Efrat Granit and Feigy Sanders
+# google-project-auto-complete 
 ### what is auto-complete program?
 In order to make the user experience of the Google search engine better, the development team decided to allow completion
 Of sentences from articles, documentation and information files on various technological topics.
